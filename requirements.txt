@@ -1,0 +1,8 @@
+transformers==4.30.2
+torch>=2.0
+faiss-cpu
+requests
+python-dotenv
+pdfplumber
+easyocr
+pillow

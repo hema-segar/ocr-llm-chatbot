@@ -1,0 +1,75 @@
+## 1. Welcome to Stupefy Company
+We’re excited to have you on board! This handbook is designed to introduce you to our company culture, values, and essential policies. It will guide you through your journey with us.
+
+## 2. Our Mission & Values
+
+**Mission:**  
+To deliver exceptional services that solve real problems for real people.
+
+**Core Values:**
+- 💡 Innovation: We seek better solutions every day.
+- 🤝 Integrity: We act with honesty and transparency.
+- 🌱 Growth: We foster personal and professional development.
+- 🎯 Accountability: We own our actions and results.
+- 💬 Communication: We value open, respectful dialogue.
+
+## 3. Company Culture
+
+We believe in:
+- A supportive and inclusive workplace.
+- A results-driven, flexible work environment.
+- Recognition of individual and team efforts.
+- Constructive feedback and continuous learning.
+
+## 4. Work Hours & Attendance
+
+- **Standard Hours:** Monday–Friday, 9 AM – 5 PM
+- **Flexible Schedule:** Subject to manager approval.
+- **Remote Work:** Available based on role requirements.
+- **Leave Policy:**  
+  - 14 days of paid annual leave  
+  - 14 days of medical leave  
+  - Public holidays as per Malaysian regulations
+
+## 5. Code of Conduct
+
+- Respect coworkers, clients, and company property.
+- No harassment, discrimination, or retaliation of any kind.
+- Keep company information confidential.
+- Follow security protocols for data and devices.
+
+## 6. Communication Channels
+
+- 📧 Email (official communication)  
+- 💬 Slack (team collaboration)  
+- 📆 Google Calendar (scheduling)  
+- 🗂️ Notion / Confluence (internal documentation)  
+
+## 7. IT & Security Policy
+
+- Use company devices for work-related tasks only.
+- Do not share passwords or access credentials.
+- Report phishing or suspicious emails immediately.
+- Lock your screen when away from your device.
+
+## 8. Performance & Feedback
+
+- **Quarterly check-ins** with your manager.
+- Continuous feedback encouraged at all levels.
+- Promotions and raises are performance-based.
+
+## 9. Termination Policy
+
+- Notice period: 1 month (unless otherwise stated in your contract).
+- Exit interviews are conducted by HR.
+- All assets and credentials must be returned before final clearance.
+
+## 10. Contact & Support
+
+If you need help, you can always reach out to:
+- **HR:** hr@stupefy.com  
+- **IT Helpdesk:** it@stupefy.com  
+- **General inquiries:** hello@stupefy.com
+
+*This handbook is not a legal contract. It may be updated at any time, and employees will be notified accordingly.*
+EOF
